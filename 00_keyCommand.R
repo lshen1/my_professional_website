@@ -24,3 +24,18 @@ stop_server()
 
 ## GitHub Deployment ----
 usethis::use_git()
+## use_git() basically replace the following action -->
+# R --> Tools --> Version Control --> Project Setup --> Git(Restart)
+# New Git pin will show (top-right) and new .gitignore
+# 01.1 Local Repository Setup
+# R topright --> Diff --> Select files (all) --> "initial commit" --> Commit
+
+usethis::use_github()
+
+## Netlify Deployment ----
+## netlify.com --> connect to GitHub
+
+## Formspree Setup ----
+
+
+

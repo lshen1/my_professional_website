@@ -33,7 +33,7 @@ params:
   contactLink: '#contact'
   copyright: All right reserved copyright © Li Shen 2023
   footerLogo: images/site-navigation/logo-li-openai3.png
-  formspreeURL: YOUR FORMSPREE URL
+  formspreeURL: https://formspree.io/f/mrgwrzdz
   googleAnalytics: YOUR GOOGLE ANALYTICS CODE
   logo: images/site-navigation/logo-li-openai3.png
   social:
