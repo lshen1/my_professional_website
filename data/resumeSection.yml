@@ -1,0 +1,80 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Experience & Education
+
+  Over 15+ years of experience working at a global leader in cancer care and research.
+
+buttonName: "Download Resume PDF"
+buttonTarget: "/cv/resume-matt.pdf"
+
+tab1Name: Experience
+tab2Name: Education
+tab1Target: experience
+tab2Target: education
+
+
+experience:
+  - content: >
+  
+      ### Senior Bioinformatician
+      
+      #### [The University of Texas MD Anderson Cancer Center](https://www.mdanderson.org/) 
+      
+      - Leads the development of robust pipelines for processing of multi-omics data platforms.
+      
+      - Pioneered a systematic strategy to streamline Drug-Screening analysis process.
+      
+      - Supported numerous multi-million-dollar grants and co-authored 40+ peer-reviewed journals.
+      
+      - `...` `...`
+      
+    time: 2020-Present
+  - content: >
+      ### Senior Statistical Analyst
+      
+      #### The University of Texas MD Anderson Cancer Center
+      
+    time: 2014-2020
+  - content: >
+      ### Research Statistical Analyst
+
+      #### The University of Texas MD Anderson Cancer Center
+
+    time: 2011-2014
+  - content: >
+      ### Statistical Analyst
+
+      #### The University of Texas MD Anderson Cancer Center
+
+    time: 2008-2011
+  
+
+
+education:
+  - content: >
+      #### Continuous Learning
+      
+      - Google 8-course Data Analytics (Certified)
+      
+      - The Business Science Univerity 5-course R-Track program (Certified) 
+      
+      - coursera
+
+      - DataCamp
+      
+    time: Present
+  - content: >
+      #### Professional Science Master's in computational biosciences (PSM)
+
+      Arizona State University
+      
+    time: 2008
+  - content: >
+      #### Master of Science in Civil Engineering (MS)
+
+      Arizona State University
+    
+    time: 2006
+  

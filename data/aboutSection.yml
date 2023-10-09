@@ -1,0 +1,20 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## Who is Li?
+
+  Li Shen is an oncology-focused data scientist with a 15+ year proven track record of developing and productionizing data products to advance treatment and diagnosis.
+content: >
+  ### I translate data insights into actionable outcomes.
+  
+  Throughout my career, I've collaborated with world-renowned researchers, clinicians, and scientists, fostering a dynamic environment for knowledge exchange and innovation. This collaborative approach has enabled me to gain deep insights into the complex challenges of cancer biology and leverage my expertise in groundbreaking cancer research.
+
+  
+  I have developed a strong expertise in analyzing and interpreting large-scale biological datasets, primarily focusing on the utilization of computational tools and techniques to extract valuable insights from genomics, proteomics, and other omics data. My efforts center around identifying patterns, biomarkers, and potential therapeutic targets, all aimed at contributing to the advancement of precision medicine and personalized treatment approaches.
+button1Name: LinkedIn
+button2Name: Download CV
+button1Target: https://www.linkedin.com/in/mattdancho/
+button2Target: "/cv/resume-matt.pdf"
+image: images/hero/LS_canvs_original.png
+imageMaskPosition: 70px 0px

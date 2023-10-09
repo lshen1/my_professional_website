@@ -1,0 +1,22 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Here's where I can help
+
+  I have a strong background in data science, machine learning, and business problem-solving.
+
+image: images/hero/LS_canvs_original.png
+
+skill:
+  - title: R
+    percent: 90
+  - title: Shiny/Dash Apps
+    percent: 90
+  - title: Unix/Linux HPC
+    percent: 80
+  - title: Git & Docker
+    percent: 80
+  - title: Python
+    percent: 70
+  

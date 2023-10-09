@@ -1,0 +1,15 @@
+---
+enable: true
+topTitle: Data Scientist, Bioinformatician
+content: >
+  # Hi I'm Li
+
+  A Senior Bioinformatician at [MD Anderson Cancer Center (MDACC)](https://www.mdanderson.org/).
+  I am passionate about leveraging the power of data and technology to make 
+  meaningful contributions in the field of bioinformatics and cancer research.
+buttonName: Contact Li
+buttonIcon: 'fa fa-envelope'
+buttonURL: "#contact"
+image: images/hero/LS_canvs_original.png
+videoThumb: images/hero/data-science.gif
+videoURL: https://www.youtube.com/watch?v=rJawNrD3xlU
