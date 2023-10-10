@@ -2,7 +2,7 @@
 categories: Web Apps, Machine Learning
 challenge: Marketing and Research & Development have difficulty identifying gaps in
   product lines, which reduces revenue.
-date: "2023-05-13T12:49:27.000+06:00"
+date: "2023-09-16T12:49:27.000+06:00"
 project: '[View Dashboard](https://lshen1.shinyapps.io/bike_price_prediction_flexdashboard/)'
 shortDescription: This application helps Marketing & R&D Teams determine product gaps
   and price new products to fill the gaps using machine learning.

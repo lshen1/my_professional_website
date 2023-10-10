@@ -2,7 +2,7 @@
 categories: Web Apps, Time Series
 challenge: Marketing and Sales need accurate forecasts for various combinations of
   customer(s) and product(s).
-date: "2023-05-13T12:49:27.000+06:00"
+date: "2023-09-15T12:49:27.000+06:00"
 project: '[View Sales Dashboard](https://lshen1.shinyapps.io/bike_sales_forecast_flexdashboard/)'
 shortDescription: This application helps Marketing & Sales identify trends in product
   demand.
