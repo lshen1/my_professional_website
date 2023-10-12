@@ -13,6 +13,8 @@ skill:
     percent: 90
   - title: Shiny/Dash Apps
     percent: 90
+  - title: Machine Learning
+    percent: 90
   - title: Unix/Linux HPC
     percent: 80
   - title: Git & Docker

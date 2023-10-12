@@ -38,7 +38,7 @@ params:
   logo: images/site-navigation/logo-li-openai3.png
   social:
     - icon: fa-linkedin-square
-      url: https://www.linkedin.com/
+      url: https://www.linkedin.com/in/shenli81
       weight: 1
     - icon: fa-twitter-square
       url: https://twitter.com/
