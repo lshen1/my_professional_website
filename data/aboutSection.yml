@@ -15,6 +15,6 @@ content: >
 button1Name: LinkedIn
 button2Name: Download CV
 button1Target: https://www.linkedin.com/in/shenli81
-button2Target: "/cv/resume-LS-20231011.pdf"
+button2Target: "/cv/resume-LS-20231013.pdf"
 image: images/hero/LS_canvs_original.png
 imageMaskPosition: 70px 0px
