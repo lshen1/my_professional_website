@@ -5,15 +5,15 @@ title: >
   ## What Do Others Think of Me?
 
 testimonial:
-  - name: Justin Kurland, PhD
-    title: Lead Data Scientist, Northwestern Mutual 
-    image: "/images/testimonial/justin.jpg"
-    comment: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+  - name: Ignacio I. Wistuba, M.D.
+    title: Professor and Chair, Department of Translational Molecular Pathology at MDACC 
+    image: "/images/testimonial/wistuba.png"
+    comment: "I have had the privilege of working closely with Li Shen, who has consistently demonstrated his exceptional skills in the analysis of data from cutting-edge technologies, such as nanostring spatial transcriptomics data. His innovative analysis pipelines and unwavering dedication to advancing knowledge have resulted in significant publications and hold promise for future breakthroughs. Li's collaborative nature and ability to translate complex data into actionable insights make him an invaluable asset to our department."
     star: 5
-  - name: Chris Selig
-    title: Data Scientist
-    image: "/images/testimonial/chris.jpg"
-    comment: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+  - name: Stephanie S. Watowich, PhD
+    title: Professor and Deputy Chair, Vivian L. Smith Distinguished Chair in Immunology
+    image: "/images/testimonial/watowich.png"
+    comment: "Li diligently developed multiple analysis pipelines for the single cell data in preprocessing with cellranger and analysis with the Seurat package. Furthermore, his creation of a visualization app with ShinyCell, where he was the first analyst to introduce this approach, among others, has enabled us to query the datasets efficiently, allowing us to make fast progress in hypothesis-generating and -confirming aspects of the work. This was particularly impressive given that our project marked his very first encounter with single cell data. Since providing the ShinyCell app, he has further enhanced the original app to support multiple apps within one interface and created a one-of-a-kind app with a customized theme that aligns with MD Anderson's goal of groundbreaking research. We could not have conducted our cancer immunotherapy studies without his expert help."
     star: 5
   - name: Mohana Krishna Chittoor
     title: Lead Data Scientist, Money View
