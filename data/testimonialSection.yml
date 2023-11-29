@@ -15,8 +15,8 @@ testimonial:
     image: "/images/testimonial/watowich.png"
     comment: "Li diligently developed multiple analysis pipelines for the single cell data in preprocessing with cellranger and analysis with the Seurat package. Furthermore, his creation of a visualization app with ShinyCell, where he was the first analyst to introduce this approach, among others, has enabled us to query the datasets efficiently, allowing us to make fast progress in hypothesis-generating and -confirming aspects of the work. This was particularly impressive given that our project marked his very first encounter with single cell data. Since providing the ShinyCell app, he has further enhanced the original app to support multiple apps within one interface and created a one-of-a-kind app with a customized theme that aligns with MD Anderson's goal of groundbreaking research. We could not have conducted our cancer immunotherapy studies without his expert help."
     star: 5
-  - name: Mohana Krishna Chittoor
-    title: Lead Data Scientist, Money View
-    image: "/images/testimonial/mohana.jpg"
-    comment: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+  - name: Carl M. Gay, MD, PhD
+    title: Assistant Professor, Department of Thoracic/Head and Neck Medical Oncology at MDACC
+    image: "/images/testimonial/gay.png"
+    comment: "Over five years of collaboration, Li has consistently demonstrated an aptitude for not only the computational work but the biological rationale for the work. Together, we've authored six impactful manuscripts and tackled numerous projects. Li's innovative contributions, particularly in drug screening and the development of a Shiny application for small cell lung cancer subtyping, showcase his proactive and creative approach. His ability to go above and beyond expectations makes him not only an invaluable team member but a potential leader in his group."
     star: 5
