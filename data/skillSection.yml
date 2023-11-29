@@ -15,10 +15,10 @@ skill:
     percent: 90
   - title: Machine Learning
     percent: 90
+  - title: Python
+    percent: 85
   - title: Unix/Linux HPC
     percent: 80
   - title: Git & Docker
     percent: 80
-  - title: Python
-    percent: 70
   
