@@ -11,6 +11,11 @@ stop_server()
 - /data/hero.yml
 - /data/aboutSection.yml
 - /data/portfolioSection.yml
+    - /content/portfolio/project-01.md
+    - /content/portfolio/project-02.md
+    - /content/portfolio/project-03_SCLC-Subtyping.md
+    - /content/portfolio/project-04_SingleCellViewer.md
+    - /content/portfolio/project-05_drExplorer2.md
 - /data/resumeSection.yml
 - /data/skillSection.yml
 - /data/testmonialSection.yml
