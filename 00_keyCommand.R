@@ -42,5 +42,10 @@ usethis::use_github()
 
 ## Formspree Setup ----
 
+## if Push/Pull buttons are deacticated
+git remote -v              # to check remote connection
+git remote remove origin   # clear your remote connection
+git remote add origin https://github.com/lshen1/my_professional_website.git
+
 
 
