@@ -43,9 +43,10 @@ usethis::use_github()
 ## Formspree Setup ----
 
 ## if Push/Pull buttons are deacticated
+# https://stackoverflow.com/questions/32238616/git-push-fatal-origin-does-not-appear-to-be-a-git-repository-fatal-could-n
 git remote -v              # to check remote connection
 git remote remove origin   # clear your remote connection
 git remote add origin https://github.com/lshen1/my_professional_website.git
-
+git push -u origin master
 
 
